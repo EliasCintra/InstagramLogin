@@ -1,2 +1,8 @@
-# InstagramLogin
-Recriando a pagina de login do Instagram. Usado HTML5 e CSS.
+# Instragram login
+Recriando pagina de login da Instragram.
+
+## Stack utilizada
+
+**Front-end:** HTML, CSS.
+
+![Screenshot](img/preview.png)
